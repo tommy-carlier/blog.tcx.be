@@ -1,6 +1,7 @@
 title: Tommy’s blog
 url: http://blog.tcx.be
 baseUrl: /
+permalink: /:year/:month/:title.html
 
 gems:
 - jekyll-redirect-from
