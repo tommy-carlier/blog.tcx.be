@@ -3,5 +3,8 @@ url: http://blog.tcx.be
 baseUrl: /
 permalink: /:year/:month/:title.html
 
+statcounter_project: 4001844
+statcounter_security: a888c42a
+
 gems:
 - jekyll-redirect-from
